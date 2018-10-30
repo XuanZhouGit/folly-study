@@ -78,4 +78,4 @@ pool.join();
 
 # 3 数据结构
 ## 3.1 总体结构
-Format: ![structure](https://github.com/XuanZhouGit/folly-study/blob/master/folly1.PNG)
+![structure](https://github.com/XuanZhouGit/folly-study/blob/master/folly1.PNG)
